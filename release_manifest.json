@@ -1,0 +1,39 @@
+{
+ "version": "v1.0",
+ "date": "2026-11-13",
+ "game": "Headhunter (Europe) (En,Fr,De,Es) / Dreamcast GD-ROM (Redump cue/bin), 2 discs",
+ "xdelta_options": "xdelta3 -e -0 -S none -A (no compression, no secondary compression, no application header)",
+ "patched_track": "Track 3 of each disc (Track 1/2 and cue unchanged)",
+ "discs": [
+  {
+   "disc": 1,
+   "asset": "Headhunter_DC_KO_v1.0_Disc1.xdelta",
+   "asset_size": 28128148,
+   "asset_sha256": "8dd48b60bc9e5bc3c3f03f3b6c7da9a6ec2b05fba89d532cee0bac27760d09e4",
+   "source_file": "Headhunter (Europe) (En,Fr,De,Es) (Disc 1) (Track 3).bin",
+   "source_size": 1185760800,
+   "source_md5": "208145da634104c4c05c185e71550fad",
+   "source_sha1": "8c1667c210486bb50821d9cb2f7f83cf18da8608",
+   "source_sha256": "386138a1ef5677f57b51f435bbe16456841865796fd08b2057f344ba84ef6c52",
+   "output_size": 1185760800,
+   "output_md5": "946437305151c5c0da54db117b44bd16",
+   "output_sha1": "39baff017596248cd823c125f1252e3697834bc4",
+   "output_sha256": "37f161fd50ae8baf2e21708fbb2a6a800e8d172ebffebe95141fea3b04d62de1"
+  },
+  {
+   "disc": 2,
+   "asset": "Headhunter_DC_KO_v1.0_Disc2.xdelta",
+   "asset_size": 21808708,
+   "asset_sha256": "77cefbe40e3794ad137baeac9af96d128f62a19ee97bfadb1fa36028b8f95013",
+   "source_file": "Headhunter (Europe) (En,Fr,De,Es) (Disc 2) (Track 3).bin",
+   "source_size": 1185760800,
+   "source_md5": "2fe16b28a2915900b3a3187b5eedd379",
+   "source_sha1": "6446ca0bd9c43b66c4623111b3e26677003518b4",
+   "source_sha256": "09f1996f2dc291c76bbcafca6bfa33a26dfc812019e3314b834e7f5342971c70",
+   "output_size": 1185760800,
+   "output_md5": "11dd0d5cf6213a4328f6b3b4613d5c5d",
+   "output_sha1": "4aaf4e7ea84ea3fb58268a19340b0e5981bd8aef",
+   "output_sha256": "cd98a0859bb7f062e2ebb33a11006997e1ca340933d636b5bd90123db8fd2c96"
+  }
+ ]
+}

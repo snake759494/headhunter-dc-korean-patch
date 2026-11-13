@@ -1,0 +1,778 @@
+{
+"rel": "CREDITS.TXT",
+"kind": "line",
+"segs": [
+{
+"h": "9356e04095e139fc",
+"ko": "헤드헌터 제작진"
+},
+{
+"h": "c2a3d75a4cce61a3",
+"ko": "제작: SEGA EUROPE"
+},
+{
+"h": "fed100c89d49e04d",
+"ko": "제품 개발 디렉터"
+},
+{
+"h": "4908923b91dc628c",
+"ko": "Kats Sato"
+},
+{
+"h": "7b7194967fd8d62a",
+"ko": "프로듀서"
+},
+{
+"h": "3c7d78f63d872fc4",
+"ko": "Mark Horneff"
+},
+{
+"h": "e4706f532399e477",
+"ko": "어시스턴트 프로듀서"
+},
+{
+"h": "53a02e88707ac88b",
+"ko": "Pete O'Brien"
+},
+{
+"h": "9eb6245e6cf2e053",
+"ko": "번역 코디네이터"
+},
+{
+"h": "ff87b1bae26b6209",
+"ko": "Caroline Ruiz"
+},
+{
+"h": "959d3544e3519764",
+"ko": "번역"
+},
+{
+"h": "dfefcc9762926f37",
+"ko": "Jens Geffert, Enrique Gonzalez Fajardo"
+},
+{
+"h": "7b64e4c4790885d1",
+"ko": "테스트 매니저"
+},
+{
+"h": "614354d48b0d0dd2",
+"ko": "Jason Cumberbatch"
+},
+{
+"h": "3b75a1e11772c6e3",
+"ko": "리드 테스터"
+},
+{
+"h": "94fa99dcb8c81c2b",
+"ko": "Nick Bennett"
+},
+{
+"h": "217eecf7401f600f",
+"ko": "마케팅 지원"
+},
+{
+"h": "fec564d0bbe435fd",
+"ko": "마케팅 매니저"
+},
+{
+"h": "271cec74dc32304c",
+"ko": "Jim Pride"
+},
+{
+"h": "564b617359cdb95d",
+"ko": "제품 매니저"
+},
+{
+"h": "7274c179c70939fa",
+"ko": "Mathew Quaeck"
+},
+{
+"h": "d46a584d891a69ba",
+"ko": "인터랙티브 디자인 매니저"
+},
+{
+"h": "dc1d9c8429b614d9",
+"ko": "Bennie Booysen"
+},
+{
+"h": "75bfd22de1d6520a",
+"ko": "온라인 마케팅 담당"
+},
+{
+"h": "4473095b247e1bde",
+"ko": "Rosie Newey"
+},
+{
+"h": "a9cd00f29f06848b",
+"ko": "온라인 디자인"
+},
+{
+"h": "a339344542963aae",
+"ko": "Ian Simpson, James Helly"
+},
+{
+"h": "5734515886a2e333",
+"ko": "매뉴얼 및 패키지"
+},
+{
+"h": "18dd076cc77c9599",
+"ko": "시니어 디자이너"
+},
+{
+"h": "a263ef8ce4d7be16",
+"ko": "Ross McLeish"
+},
+{
+"h": "639dcae81e8176ea",
+"ko": "디자이너"
+},
+{
+"h": "312e6a71a18c7149",
+"ko": "Tom Bingle"
+},
+{
+"h": "54d5b30cb8a873ac",
+"ko": "현지화 코디네이터"
+},
+{
+"h": "335c9588e543ac97",
+"ko": "Emma Ledda"
+},
+{
+"h": "214dc28639411843",
+"ko": "특별히 감사드립니다:"
+},
+{
+"h": "40b06bfdf6c20803",
+"ko": "Tom Szirtes, Nicola Steele, Helen Ttofa"
+},
+{
+"h": "a5847ed6307039dd",
+"ko": "Mathew Brooks, Catherine Horneff "
+},
+{
+"h": "e0e3818504d26210",
+"ko": "개발: AMUZE"
+},
+{
+"h": "127a6e1890c7100e",
+"ko": "프로듀서 (AMUZE)"
+},
+{
+"h": "eeae09292fdb934c",
+"ko": "John Kroknes, Stefan Holmqvist"
+},
+{
+"h": "92e918a7831f4dad",
+"ko": "프로젝트 매니저"
+},
+{
+"h": "993b198de3095584",
+"ko": "Rudolf Czitron"
+},
+{
+"h": "7c10990e16b93982",
+"ko": "프로젝트 그룹"
+},
+{
+"h": "91c502c047ea577e",
+"ko": "Peter Johansson, Daniel Willfor"
+},
+{
+"h": "ab22c007cc0ece37",
+"ko": "Fredrik Sjoo, Christian Cyreus"
+},
+{
+"h": "e91506d0335e048e",
+"ko": "코디네이터"
+},
+{
+"h": "5bae3ee5223ac66d",
+"ko": "Daniel Willfor"
+},
+{
+"h": "f7e45ae84db45958",
+"ko": "원작"
+},
+{
+"h": "c7f96e3c8d47d786",
+"ko": "John Kroknes, Philip Lawrence"
+},
+{
+"h": "d04c53e6f75af3c4",
+"ko": "각본"
+},
+{
+"h": "5d93058129fc2b83",
+"ko": "Philip Lawrence"
+},
+{
+"h": "eb97fe0bb6fd5d21",
+"ko": "게임 디자인"
+},
+{
+"h": "4ac0f026d1100163",
+"ko": "Peter Johansson"
+},
+{
+"h": "f9b6edc19aa3f185",
+"ko": "프로그래밍 디렉터"
+},
+{
+"h": "58a4f5288e818774",
+"ko": "Fredrik Sjoo"
+},
+{
+"h": "53879577c329a6d0",
+"ko": "리드 프로그래머"
+},
+{
+"h": "4a17fa96c78f7dc4",
+"ko": "Christian Cyreus"
+},
+{
+"h": "d1a946bf8b2f2a72",
+"ko": "프로그래밍"
+},
+{
+"h": "d34be8b715c9f096",
+"ko": "Stefan Wallberg, Peter Osterblom"
+},
+{
+"h": "f414482e2aa89a47",
+"ko": "Jim Kjellin, Jonas Minnberg"
+},
+{
+"h": "174424529b21ddcc",
+"ko": "Johnny Svensson, Jonas Eriksson, Jonas Lund"
+},
+{
+"h": "10d88c0caa6f4a2d",
+"ko": "Martin Fagerlind, Hakan Fredriksson, Joacim Jonsson"
+},
+{
+"h": "1f1704d5751a9a0b",
+"ko": "추가 프로그래밍"
+},
+{
+"h": "7c589125acca2978",
+"ko": "Marcus Stjarnas, Fredrik Ovaska"
+},
+{
+"h": "b544e65cee3e7dfa",
+"ko": "Henrik Erngren, Johan Anderssen, Ulf Lidberg"
+},
+{
+"h": "70fdb6d074dc626e",
+"ko": "리드 비주얼 디자인"
+},
+{
+"h": "362f41e486364256",
+"ko": "Johan Lindh"
+},
+{
+"h": "18029119ac98e649",
+"ko": "모델링 디렉터"
+},
+{
+"h": "e7e8d30cae48ddd5",
+"ko": "Rikard Hilding"
+},
+{
+"h": "f83410e3bc65ca3d",
+"ko": "리드 월드 모델링"
+},
+{
+"h": "1add5caf6394888a",
+"ko": "Johan Carlberg"
+},
+{
+"h": "0c232fcbfacc1038",
+"ko": "월드 모델링"
+},
+{
+"h": "b8f3b8b7395cbb37",
+"ko": "Svante Danielsson, Jennie Persson"
+},
+{
+"h": "14ea8a24f8f05beb",
+"ko": "Magnus Anteroinen, Carl Johan Enmark"
+},
+{
+"h": "fd52fe91409fb82c",
+"ko": "Alexis Ferrer, Marie Larsson, Marten Stormdal"
+},
+{
+"h": "44907e0e77b71250",
+"ko": "추가 모델링"
+},
+{
+"h": "1fc18ab74a5dfb37",
+"ko": "Anders Selvander, Thomas Zaar"
+},
+{
+"h": "395f6b992185728b",
+"ko": "Fredrik Johansson, Gustav Tivander"
+},
+{
+"h": "4b241531056184ca",
+"ko": "Jimmie Farkas, Oskar Rahm, My Andersson"
+},
+{
+"h": "deb4bc895a38c87c",
+"ko": "리드 캐릭터 모델링 및 애니메이션"
+},
+{
+"h": "19afe12c9080ce0b",
+"ko": "Mattias Haggstrom"
+},
+{
+"h": "6492a03601d49f84",
+"ko": "캐릭터 모델링 및 애니메이션"
+},
+{
+"h": "dd65d24d00de8c7a",
+"ko": "Niclas Berglund, Alfred Granberg"
+},
+{
+"h": "0f84c8c3248e6213",
+"ko": "추가 캐릭터 애니메이션"
+},
+{
+"h": "f849b60dfeb8743d",
+"ko": "Charli Kasselback, Jonas Karn"
+},
+{
+"h": "63c1e11f5b77575f",
+"ko": "컷신 디렉터"
+},
+{
+"h": "f948c39bffe09af0",
+"ko": "Patrick Bach Berglund"
+},
+{
+"h": "659fd60f1f40e3c2",
+"ko": "컷신"
+},
+{
+"h": "f850b8811d62a2aa",
+"ko": "Claes Wikdahl, Henrik Holmberg, Janak Thakker"
+},
+{
+"h": "eac9fe8cfb46265b",
+"ko": "Anders De Geer, Niklas Fegraeus, Martin Kopparhed"
+},
+{
+"h": "8b7d7289780a7bed",
+"ko": "컷신 캐릭터 모델"
+},
+{
+"h": "247585a732363c3e",
+"ko": "Inverse Logic Inc"
+},
+{
+"h": "cc4cefb3e7a36f73",
+"ko": "로토스코프 배우"
+},
+{
+"h": "8c05e023695052a7",
+"ko": "David Dencik, Johanna Skobe"
+},
+{
+"h": "38f17f8a1c33a20c",
+"ko": "시각 효과"
+},
+{
+"h": "7f5465d66c9d7f8f",
+"ko": "Juan Gauthier"
+},
+{
+"h": "f472a5aadda21dc4",
+"ko": "게임 테스트"
+},
+{
+"h": "d3c186295518c976",
+"ko": "Billy Zebulon Norrby"
+},
+{
+"h": "138803c50f7663b3",
+"ko": "추가 2D 아트워크"
+},
+{
+"h": "07bfc896262f9c96",
+"ko": "Malcolm Tween (Digital Progression)"
+},
+{
+"h": "8b23d7e427f05451",
+"ko": "특별히 감사드립니다"
+},
+{
+"h": "01dea0377a3f8bac",
+"ko": "Johan Jeansson, Naohiko Hoshino, Frans Mittermayer"
+},
+{
+"h": "3a4cfbfd820bd294",
+"ko": "John Carehag, Dan Walker, Henrik Gavelli"
+},
+{
+"h": "6548b0141683b62a",
+"ko": "Mats Thorstensson, Tamara Strugo, Asa Johansson"
+},
+{
+"h": "926c995081b01587",
+"ko": "Bosse Bertilsson, Gunilla Kjallnas, Mats Lundqvist"
+},
+{
+"h": "8a8a60c4af0a268b",
+"ko": "헤드헌터 음악"
+},
+{
+"h": "0e4ee3c9d26db5da",
+"ko": "작곡, 편곡, 오케스트레이션"
+},
+{
+"h": "2c5ef00b2b4dc819",
+"ko": "Richard Jacques"
+},
+{
+"h": "b9310a5871c888c9",
+"ko": "지휘"
+},
+{
+"h": "55adac42471c29e1",
+"ko": "Steven Lloyd"
+},
+{
+"h": "162339321a46a34b",
+"ko": "어시스턴트 오케스트레이터"
+},
+{
+"h": "cd73ae9f6e313a19",
+"ko": "Andrew Pearce"
+},
+{
+"h": "9dc8fd2a0570bdd7",
+"ko": "악보 준비"
+},
+{
+"h": "eacc25fa1690f05c",
+"ko": "Gary Spolding"
+},
+{
+"h": "b9c935dd2826d4c5",
+"ko": "오케스트라 계약"
+},
+{
+"h": "1b048d3a14f0fcca",
+"ko": "Isobel Griffiths"
+},
+{
+"h": "e26c936bbeca6562",
+"ko": "리더"
+},
+{
+"h": "ee35d21a8dbdbf7b",
+"ko": "Rolf Wilson"
+},
+{
+"h": "664aa757ff9ea7f5",
+"ko": "녹음"
+},
+{
+"h": "54829f81ae8462b5",
+"ko": "Matt Howe"
+},
+{
+"h": "894615029e3554a3",
+"ko": "Pro Tools 편집"
+},
+{
+"h": "d6b61088f46bc895",
+"ko": "Ian Duncan"
+},
+{
+"h": "d921943601c56fc2",
+"ko": "어시스턴트 엔지니어"
+},
+{
+"h": "58dd0230874a52b0",
+"ko": "Andrew Dudman, Richard Lancaster"
+},
+{
+"h": "b13b4d4a857b66ae",
+"ko": "도움"
+},
+{
+"h": "7c6dbeb86c12f840",
+"ko": "녹음: Abbey Road Studios, London"
+},
+{
+"h": "01d2c3df12a2df45",
+"ko": "Digidesign Pro Tools로 24비트 녹음"
+},
+{
+"h": "fb46f52db10c6836",
+"ko": "및 Prism Sound ADA-8 사용."
+},
+{
+"h": "0538a58f43920df8",
+"ko": "사운드트랙에 사용된 샘플 라이브러리"
+},
+{
+"h": "bd249226c8c22614",
+"ko": "Miroslav Vitous Symphonic Orchestra (Unisync)"
+},
+{
+"h": "d181cfa04c26d30c",
+"ko": "Peter Siedlaczek's Advanced Orchestra (Best Service)"
+},
+{
+"h": "97ff055349aaf2b0",
+"ko": "Bob Clearmountain Drums II (East West)"
+},
+{
+"h": "776fe3f6dd28daac",
+"ko": "The Ultimate Piano Collection (East West)"
+},
+{
+"h": "36a420092ab4fa59",
+"ko": "Peter Siedlaczek's Classical Choir (Best Service)"
+},
+{
+"h": "11378bdaf5987c57",
+"ko": "Steve Stevens Guitar (East West), Hallelujah "
+},
+{
+"h": "08ad776387e86c1a",
+"ko": "(Best Service), Symphony of Voices (Spectrasonics)"
+},
+{
+"h": "e3f467533391ea36",
+"ko": "Chemical Beats 샘플 컬렉션의 루프와 샘플 사용, "
+},
+{
+"h": "fe87e338f2103d4d",
+"ko": "제작 Paul Brook, Andy "
+},
+{
+"h": "0cb2f51154061196",
+"ko": "Thomson - Copyright (c)1998 Zero-G Ltd"
+},
+{
+"h": "1e13913c685f7050",
+"ko": "특별히 감사드립니다"
+},
+{
+"h": "e5000884ea226682",
+"ko": "Collette Barber, Chris Bolitho"
+},
+{
+"h": "2817fe2d8a9df4b9",
+"ko": "David Flower, Greg O'Connor-Read"
+},
+{
+"h": "72fa008757a3794b",
+"ko": "Nyree Pinder, Chance Thomas, Yukifumi Makino"
+},
+{
+"h": "f6db24f880dbe10e",
+"ko": "사운드, 대사 및 뉴스 영상"
+},
+{
+"h": "8c1c419b6ec73f54",
+"ko": "사운드 감독"
+},
+{
+"h": "cb31211ae4a5b0aa",
+"ko": "Dom Gibbs"
+},
+{
+"h": "fbd64d74616fe29f",
+"ko": "사운드 디자인"
+},
+{
+"h": "d1137e2ea1e2e1a0",
+"ko": "Martin Evens"
+},
+{
+"h": "3f5ba19ee6d04136",
+"ko": "뉴스 영상 감독"
+},
+{
+"h": "9de46eb102260661",
+"ko": "Andy Wilson"
+},
+{
+"h": "95d1a1171334b34a",
+"ko": "Laura Gregory"
+},
+{
+"h": "5961fae514c42796",
+"ko": "라인 프로듀서"
+},
+{
+"h": "9b8b41ff7034d3cd",
+"ko": "Sheridan Thomas"
+},
+{
+"h": "9d526ee3d103ae33",
+"ko": "리서처"
+},
+{
+"h": "e3d4afe94a92931b",
+"ko": "Giles Greenwood"
+},
+{
+"h": "c7e9fb2ea6c3b8c3",
+"ko": "편집"
+},
+{
+"h": "eeaa2eb9f34e15d5",
+"ko": "Andy Philips"
+},
+{
+"h": "5ac384399b45e0ba",
+"ko": "제작 코디네이터"
+},
+{
+"h": "f20d1b7201d08337",
+"ko": "Kojo Abban, Claire Broadribb"
+},
+{
+"h": "60745aef336b682e",
+"ko": "출연"
+},
+{
+"h": "83526fb3d97d8049",
+"ko": "잭 웨이드 - James Livingstone"
+},
+{
+"h": "a2451b5b146d57df",
+"ko": "안젤라 스턴 - Holley Chant"
+},
+{
+"h": "c10e504d40f7f987",
+"ko": "라미레스, 그레이울프 - John Moraitis"
+},
+{
+"h": "446ca91291bd5069",
+"ko": "츠바이베르크, 레드우드 - Rupert Degas"
+},
+{
+"h": "be591e6a22f8363d",
+"ko": "호크 국장 - Don Fellows"
+},
+{
+"h": "8463da5b0dc2f126",
+"ko": "앨런 샤프 - Paul Goodwin"
+},
+{
+"h": "431249adc032d51a",
+"ko": "스텔라 (L.E.I.L.A) - Maggie Clews"
+},
+{
+"h": "97632209a2ce9ab9",
+"ko": "빌 웨이벌리 - Mark Caven"
+},
+{
+"h": "975cdf21525cb460",
+"ko": "케이트 글로스 - Lorelei King"
+},
+{
+"h": "84311866c687f58b",
+"ko": "조연"
+},
+{
+"h": "2a8b446c2224bb1d",
+"ko": "Jay Benedict, Jonathan Kydd"
+},
+{
+"h": "5b63f6bb36aa3a7e",
+"ko": "Rupert Degas, Jan Ravens"
+},
+{
+"h": "5f7f518fed571ba8",
+"ko": "뉴스 영상 후반 작업"
+},
+{
+"h": "18eb7a60ad2fd637",
+"ko": "후반 작업 프로듀서"
+},
+{
+"h": "15914a73f495b2ad",
+"ko": "Jon Collins"
+},
+{
+"h": "43dcd68846431ce5",
+"ko": "Henry 아티스트"
+},
+{
+"h": "301a870d58eca0b2",
+"ko": "Tim Osborne, Paul O'Brien, Lance Gaunt"
+},
+{
+"h": "f5174bef482cedb8",
+"ko": "Inferno 오퍼레이터"
+},
+{
+"h": "18153bee6fbd6311",
+"ko": "Avtar Bains"
+},
+{
+"h": "cb2e646c053d66bf",
+"ko": "Andy Wilks, Adam Windmill, Will Yarrow"
+},
+{
+"h": "fd2cc30decdcc8f0",
+"ko": "대사 녹음"
+},
+{
+"h": "fade3aaeaeae85aa",
+"ko": "Steve Bray, Paul Carr"
+},
+{
+"h": "de7204369166f1dd",
+"ko": "대사 어시스턴트"
+},
+{
+"h": "10509c45774e8894",
+"ko": "Cane Williams"
+},
+{
+"h": "0c115707131a6415",
+"ko": "폴리 녹음"
+},
+{
+"h": "d250374c230a09a0",
+"ko": "David Sloss"
+},
+{
+"h": "7cd904ff49a1d095",
+"ko": "폴리 아티스트"
+},
+{
+"h": "23b868fc08326dfb",
+"ko": "Ricky Butt, Ruth Sullivan"
+},
+{
+"h": "58eed5ce6a070491",
+"ko": "Great Guns, Framestore"
+},
+{
+"h": "b49c3942088c082a",
+"ko": "Video London, Goldcrest, Rhino Dyno"
+},
+{
+"h": "b55eaaf8c77b4cda",
+"ko": "Nick / Rhino Dyno 오토바이 감독"
+},
+{
+"h": "a992fb6e11f169dc",
+"ko": "AMUZE와 SEGA는 참여해 주신 모든 분께 감사드립니다"
+},
+{
+"h": "0137d6d36376e84e",
+"ko": "헤드헌터를 플레이해 주셔서 감사합니다"
+}
+]
+}
